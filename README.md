@@ -1,6 +1,14 @@
 
 ![Logo](https://ik.imagekit.io/vu5t8xb15vzcx/tr:h-100/android-chrome-512x512_EiumvYoXeA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1669548997842)
+# Hi there! 👋 I'm Robert Jonshon  
 
+🚀 **Senior Full-Stack Developer & Blockchain Developer**  
+💻 Passionate about building scalable web applications and decentralized solutions.  
+🔗 Experienced in **React, Node.js, Solidity, Web3, and Smart Contracts**.  
+🌍 Open to collaborations on innovative blockchain projects.  
+
+📫 **Let's connect:**  
+[GitHub](https://github.com/codecook-start) • [LinkedIn](https://linkedin.com/in/codecook-start) • [Twitter](https://twitter.com/codecook-start)
 # Daisy UI Admin Dashboard Template - DashWind 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 

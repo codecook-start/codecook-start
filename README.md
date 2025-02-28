@@ -1,14 +1,5 @@
-<img src="https://raw.githubusercontent.com/codecook-start/codecook-start/main/intro.gif" alt="👋 Hi there! I'm Codecook" title="👋 Hi there! I'm Codecook"/>
-
-<div align="justify">
-<img src="https://github.com/codecook-start/portfolio/background.png" alt="👋 Hi there! I'm Codecook" title="👋 Hi there! I'm Codecook"/>
-
-
-
-</div>
-<p></p>
 <p align="justify">
-Welcome to my GitHub Page. I am [Your Name], a software engineer specializing in [Your Specialization]. I love learning new things about programming and sharing my knowledge with others. I have been programming for more than [X] years.
+Welcome to my GitHub Page. I am Codecook, a software engineer. I love learning new things about programming and sharing my knowledge with others. I have been programming for more than 7 years.
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -161,53 +152,8 @@ Welcome to my GitHub Page. I am [Your Name], a software engineer specializing in
 </details>
 
 
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@codecook-start/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@codecook-start/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
-
-
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/codecook-start/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codecook-start&repo=Lorem-Farsi&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/codecook-start/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codecook-start&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/codecook-start/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codecook-start&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/codecook-start/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codecook-start&repo=personal-site&theme=default" />
- </a>
- 
-</details>
-
-## Recent GitHub Activity ✅
-
-![Metrics](https://metrics.lecoq.io/codecook-start?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FToronto)
-
 ## GitHub Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codecook-start&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+

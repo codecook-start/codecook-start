@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/codecook-start/codecook-start/main/intro.gif" alt="👋 Hi there! I'm [Your Name]" title="👋 Hi there! I'm Codecook"/>
+<img src="https://raw.githubusercontent.com/codecook-start/codecook-start/main/intro.gif" alt="👋 Hi there! I'm Codecook" title="👋 Hi there! I'm Codecook"/>
 
 <div align="justify">
-![Uploading background.png…]()
+<img src="https://github.com/codecook-start/portfolio/background.png" alt="👋 Hi there! I'm Codecook" title="👋 Hi there! I'm Codecook"/>
 
 
 

@@ -1,3 +1,4 @@
+![CI](https://github.com/codecook-start/codecook-start/actions/workflows/<workflow_file>.yml/badge.svg)
 <p align="justify">
 Welcome to my GitHub Page. I am Codecook, a software engineer. I love learning new things about programming and sharing my knowledge with others. I have been programming for more than 7 years.
 </p>

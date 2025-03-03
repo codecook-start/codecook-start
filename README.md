@@ -7,9 +7,38 @@
 </p>
 <div align="center">
  
- <img src="https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000">
- <p>sdsdf</p>
- </img>
+ <img src="https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000"/>
+ <canvas id="myCanvas" width="800" height="600"></canvas>
+
+    <script>
+        // Get the canvas element and its context
+        const canvas = document.getElementById('myCanvas');
+        const ctx = canvas.getContext('2d');
+
+        // Load the image
+        const img = new Image();
+        img.src = 'https://example.com/your-image.jpg](https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000'; // Replace with your image URL
+
+        // Draw the image and text once the image is loaded
+        img.onload = function() {
+            ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+            // Set text properties
+            ctx.font = '48px serif';
+            ctx.fillStyle = 'white';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.strokeStyle = 'black';
+            ctx.lineWidth = 2;
+
+            // Calculate the center position
+            const centerX = canvas.width / 2;
+            const centerY = canvas.height / 2;
+
+            // Write text on the image at the center
+            ctx.fillText('Hello, World!', centerX, centerY);
+            ctx.strokeText('Hello, World!', centerX, centerY);
+        };
+    </script>
 </div>
 
 

@@ -1,6 +1,7 @@
 
 <p align="justify">
 Welcome to my GitHub Page. I am Codecook, a software engineer. I love learning new things about programming and sharing my knowledge with others. I have been programming for more than 7 years.
+ <img src="/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg" alt="Code on a computer screen." height="1081" width="2400" srcset="https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner450.jpg 450w, https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner800.jpg 800w, https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner1200.jpg 1200w, https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner1600.jpg 1600w, https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg 2400w, " sizes="(max-width: 1599px) 100vw, 1600px" class="multi-media_img">
 </p>
 
 ## My favorite tools and technologies ⚙️

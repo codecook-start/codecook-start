@@ -1,7 +1,7 @@
 
 <p align="justify">
 Welcome to my GitHub Page. I am Codecook, a software engineer. I love learning new things about programming and sharing my knowledge with others. I have been programming for more than 7 years.
- <img src="/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg" alt="backgroung"/>
+ <img src="https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
 </p>
 
 ## My favorite tools and technologies ⚙️

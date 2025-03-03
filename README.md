@@ -1,4 +1,27 @@
+<style>
+        .container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+        }
 
+        .container img {
+            width: 100%;
+            height: auto;
+        }
+
+        .centered-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 48px;
+            font-family: Arial, sans-serif;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+        }
+    </style>
+    
 <p align="justify">
  <H2>
   Welcome to my GitHub Page. I am Codecook, a software engineer. I love learning new things about programming and sharing my knowledge with others. I have been programming for more than 7 years. 
@@ -8,37 +31,7 @@
 <div align="center">
  
  <img src="https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000"/>
- <canvas id="myCanvas" width="800" height="600"></canvas>
 
-    <script>
-        // Get the canvas element and its context
-        const canvas = document.getElementById('myCanvas');
-        const ctx = canvas.getContext('2d');
-
-        // Load the image
-        const img = new Image();
-        img.src = 'https://example.com/your-image.jpg](https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000'; // Replace with your image URL
-
-        // Draw the image and text once the image is loaded
-        img.onload = function() {
-            ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
-            // Set text properties
-            ctx.font = '48px serif';
-            ctx.fillStyle = 'white';
-            ctx.textAlign = 'center';
-            ctx.textBaseline = 'middle';
-            ctx.strokeStyle = 'black';
-            ctx.lineWidth = 2;
-
-            // Calculate the center position
-            const centerX = canvas.width / 2;
-            const centerY = canvas.height / 2;
-
-            // Write text on the image at the center
-            ctx.fillText('Hello, World!', centerX, centerY);
-            ctx.strokeText('Hello, World!', centerX, centerY);
-        };
-    </script>
 </div>
 
 

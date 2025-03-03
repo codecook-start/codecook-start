@@ -5,7 +5,7 @@
  </H2>
 
 </p>
-<div align="justify">
+<div align="center">
  <img src="https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"/>
 </div>
 

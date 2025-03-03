@@ -4,17 +4,9 @@
  </H2>
 
 </p>
-<div align="center">
- 
+<div align="center"> 
  <img src="https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000"/>
-
 </div>
-<div style="position: relative; display: inline-block;">
-        <img src="https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000">
-        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 48px; font-family: Arial, sans-serif; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
-            Hello, World!
-        </div>
-    </div>
 
 ## My favorite tools and technologies ⚙️
 

@@ -1,27 +1,3 @@
-<style>
-        .container {
-            position: relative;
-            width: 100%;
-            max-width: 800px;
-        }
-
-        .container img {
-            width: 100%;
-            height: auto;
-        }
-
-        .centered-text {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            color: white;
-            font-size: 48px;
-            font-family: Arial, sans-serif;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-        }
-    </style>
-    
 <p align="justify">
  <H2>
   Welcome to my GitHub Page. I am Codecook, a software engineer. I love learning new things about programming and sharing my knowledge with others. I have been programming for more than 7 years. 
@@ -33,7 +9,12 @@
  <img src="https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000"/>
 
 </div>
-
+<div style="position: relative; display: inline-block;">
+        <img src="https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 48px; font-family: Arial, sans-serif; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
+            Hello, World!
+        </div>
+    </div>
 
 ## My favorite tools and technologies ⚙️
 
